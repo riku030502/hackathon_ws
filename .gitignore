@@ -1,0 +1,17 @@
+# external repos
+GMR/
+GVHMR/
+IsaacLab_v2.1.0/
+
+# datasets
+train_data/
+
+# python
+__pycache__/
+*.pyc
+
+# logs
+logs/
+outputs/
+
+*.tar
